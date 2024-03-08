@@ -4,11 +4,11 @@ Welcome to my portfolio! This is where I showcase my skills in JavaScript and Py
 
 ## My GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SouvikNandi1&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SouvikNandi1&show_icons=true&theme=radical&hide_border=true&line_height=24)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouvikNandi1&hide_progress=false&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouvikNandi1&hide_progress=false&theme=radical&layout=compact&langs_count=6)
 
 ## Check Out My Featured Project
 
