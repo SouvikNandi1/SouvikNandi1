@@ -15,6 +15,7 @@ Welcome to my portfolio! This is where I showcase my skills in JavaScript and Py
 Explore one of my featured projects:
 
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=SouvikNandi1&repo=souviknandi1.github.io&theme=radical)](https://github.com/SouvikNandi1/souviknandi1.github.io/tree/test)
+[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=SouvikNandi1&repo=Speakio&theme=radical)](https://github.com/SouvikNandi1/Speakio/tree/master)
 
 Feel free to collaborate or just take a look around!
 
