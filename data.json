@@ -4,12 +4,24 @@
             "name": "1.Souvik Nandi",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Smooth playback and supports multiple formats. Excellent video quality and easy to use."
+                    "app": "Tiny Icons Widget",
+                    "description": "Great for organizing your home screen. Easy to use and highly customizable."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Reliable app for earning rewards. User-friendly interface and quick payouts."
+                    "app": "Audicate Audio Book",
+                    "description": "Wide selection of audiobooks with excellent narration. Perfect for on-the-go listening."
+                },
+                {
+                    "app": "Call History",
+                    "description": "Simple and efficient way to track your call logs. Very user-friendly and organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Smooth video and voice calls. Great app for staying connected with friends and family."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "User-friendly interface for social networking. Connects you with like-minded people easily."
                 }
             ]
         },
@@ -17,16 +29,24 @@
             "name": "2.Soma Nandi",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Great app with clear video quality. The interface is user-friendly and it plays all formats."
+                    "app": "Tiny Icons Widget",
+                    "description": "Makes home screen management easy. Highly customizable and user-friendly."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Easy to use and offers various ways to earn. Fast and reliable payouts."
+                    "app": "Audicate Audio Book",
+                    "description": "Great app for audiobooks. High-quality audio and a vast library."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": "The Elo Elo app offers an easy login process that saves time and effort. Password protection is strong, ensuring my account is safe. The quick login feature is very convenient !"
+                    "app": "Call History",
+                    "description": "Tracks call logs efficiently. Very easy to use and keeps everything organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Excellent app for video and voice calls. Keeps you connected effortlessly."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Connects you with like-minded individuals. Easy to use and navigate."
                 }
             ]
         },
@@ -34,12 +54,24 @@
             "name": "3.Adam Tok",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Seamless playback and supports various formats. Very reliable for all my video needs."
+                    "app": "Tiny Icons Widget",
+                    "description": "Perfect for customizing your home screen. Easy to use and very practical."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Simple and efficient way to earn rewards. Payouts are quick and hassle-free."
+                    "app": "Audicate Audio Book",
+                    "description": "Amazing selection of audiobooks. Excellent audio quality and user-friendly interface."
+                },
+                {
+                    "app": "Call History",
+                    "description": "Great for keeping track of calls. Simple, efficient, and well-organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Fantastic app for staying in touch. Clear video and voice calls."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Easy to connect with others. User-friendly and great for social networking."
                 }
             ]
         },
@@ -47,12 +79,24 @@
             "name": "4.Roudy Rathor v2.0",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Excellent video quality and smooth performance. The app is intuitive and easy to navigate."
+                    "app": "Tiny Icons Widget",
+                    "description": "Helps in organizing home screen effectively. Highly customizable and easy to use."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Great earning potential with a user-friendly app. Reliable and fast payouts."
+                    "app": "Audicate Audio Book",
+                    "description": "Excellent audio quality with a wide range of books. Perfect for listening on the go."
+                },
+                {
+                    "app": "Call History",
+                    "description": "Very efficient in tracking call logs. User-friendly and well-organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Great app for seamless communication. Excellent video and voice call quality."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Easy to connect with new people. Intuitive interface and very engaging."
                 }
             ]
         },
@@ -60,16 +104,24 @@
             "name": "5.Kushal Barman",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Plays all formats flawlessly. The video quality is superb and the interface is very user-friendly."
+                    "app": "Tiny Icons Widget",
+                    "description": "Customizes home screen effortlessly. Very user-friendly and functional."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Convenient and easy to use. Multiple earning options and quick payouts."
+                    "app": "Audicate Audio Book",
+                    "description": "Vast library of audiobooks with great narration. Perfect for book lovers on the move."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": "Logging into Elo Elo is a breeze with its user-friendly design. I appreciate the strong password protection and feel confident my account is safe. The quick login option is a time-saver !"
+                    "app": "Call History",
+                    "description": "Keeps call logs organized and easy to access. Very simple and efficient."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Smooth and clear video calls. Great for keeping in touch with loved ones."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Great for connecting with like-minded people. User-friendly and easy to navigate."
                 }
             ]
         },
@@ -77,12 +129,24 @@
             "name": "6.Shyamal Barman",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Reliable and supports various video formats. The quality of playback is excellent."
+                    "app": "Tiny Icons Widget",
+                    "description": "Perfect for organizing your home screen. Easy to use and highly customizable."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Simple to use with reliable earnings. Fast payouts and a smooth interface."
+                    "app": "Audicate Audio Book",
+                    "description": "Wide selection of audiobooks with excellent narration. Perfect for on-the-go listening."
+                },
+                {
+                    "app": "Call History",
+                    "description": "Simple and efficient way to track your call logs. Very user-friendly and organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Smooth video and voice calls. Great app for staying connected with friends and family."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "User-friendly interface for social networking. Connects you with like-minded people easily."
                 }
             ]
         },
@@ -90,16 +154,24 @@
             "name": "7.Kalyani Barman",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Smooth and clear video playback. The app is easy to use and supports multiple formats."
+                    "app": "Tiny Icons Widget",
+                    "description": "Makes home screen management easy. Highly customizable and user-friendly."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "User-friendly app with multiple earning options. Quick and reliable payouts."
+                    "app": "Audicate Audio Book",
+                    "description": "Great app for audiobooks. High-quality audio and a vast library."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": "Elo Elo provides a seamless login experience. I like the strong password protection, which makes me feel my account is secure. The quick login feature is highly convenient ! "
+                    "app": "Call History",
+                    "description": "Tracks call logs efficiently. Very easy to use and keeps everything organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Excellent app for video and voice calls. Keeps you connected effortlessly."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Connects you with like-minded individuals. Easy to use and navigate."
                 }
             ]
         },
@@ -107,12 +179,24 @@
             "name": "8.Susmita Barman",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Great video player with excellent quality. Plays all my videos without any issues."
+                    "app": "Tiny Icons Widget",
+                    "description": "Perfect for customizing your home screen. Easy to use and very practical."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Reliable app for earning rewards. User-friendly and fast payouts."
+                    "app": "Audicate Audio Book",
+                    "description": "Amazing selection of audiobooks. Excellent audio quality and user-friendly interface."
+                },
+                {
+                    "app": "Call History",
+                    "description": "Great for keeping track of calls. Simple, efficient, and well-organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Fantastic app for staying in touch. Clear video and voice calls."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Easy to connect with others. User-friendly and great for social networking."
                 }
             ]
         },
@@ -120,16 +204,24 @@
             "name": "9.Soumyajit Bhunia",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "High-quality playback and supports different formats. Very satisfied with its performance."
+                    "app": "Tiny Icons Widget",
+                    "description": "Helps in organizing home screen effectively. Highly customizable and easy to use."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Easy to use with quick payouts. Great for earning rewards in spare time."
+                    "app": "Audicate Audio Book",
+                    "description": "Excellent audio quality with a wide range of books. Perfect for listening on the go."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": "I find the easy login feature of Elo Elo very practical. The password protection is robust, and I feel secure using the app. The quick login functionality is a great addition !"
+                    "app": "Call History",
+                    "description": "Very efficient in tracking call logs. User-friendly and well-organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Great app for seamless communication. Excellent video and voice call quality."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Easy to connect with new people. Intuitive interface and very engaging."
                 }
             ]
         },
@@ -137,16 +229,24 @@
             "name": "10.Asim Basak",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Smooth playback and excellent video quality. User-friendly interface and versatile format support."
+                    "app": "Tiny Icons Widget",
+                    "description": "Customizes home screen effortlessly. Very user-friendly and functional."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Efficient app for earning rewards. User-friendly and provides quick payouts."
+                    "app": "Audicate Audio Book",
+                    "description": "Vast library of audiobooks with great narration. Perfect for book lovers on the move."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": " Using Elo Elo is straightforward with its easy login process. I am impressed with the level of password protection and the quick login feature is very helpful !"
+                    "app": "Call History",
+                    "description": "Keeps call logs organized and easy to access. Very simple and efficient."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Smooth and clear video calls. Great for keeping in touch with loved ones."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Great for connecting with like-minded people. User-friendly and easy to navigate."
                 }
             ]
         },
@@ -154,16 +254,24 @@
             "name": "11.Abasak Basak",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Reliable video player with excellent quality. The app is easy to use and very efficient."
+                    "app": "Tiny Icons Widget",
+                    "description": "Perfect for organizing your home screen. Easy to use and highly customizable."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "User-friendly app for earning rewards. Fast payouts and multiple earning options."
+                    "app": "Audicate Audio Book",
+                    "description": "Wide selection of audiobooks with excellent narration. Perfect for on-the-go listening."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": "The easy login feature of Elo Elo makes accessing the app very simple. The password protection is excellent, and I feel my account is safe. Quick login is a great feature !"
+                    "app": "Call History",
+                    "description": "Simple and efficient way to track your call logs. Very user-friendly and organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Smooth video and voice calls. Great app for staying connected with friends and family."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "User-friendly interface for social networking. Connects you with like-minded people easily."
                 }
             ]
         },
@@ -171,16 +279,24 @@
             "name": "12.Soumyadeep Dutta",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Clear and smooth video playback. The app supports multiple formats and is very user-friendly."
+                    "app": "Tiny Icons Widget",
+                    "description": "Makes home screen management easy. Highly customizable and user-friendly."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Reliable and easy to use. Quick payouts and various ways to earn."
+                    "app": "Audicate Audio Book",
+                    "description": "Great app for audiobooks. High-quality audio and a vast library."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": " I appreciate the easy login process of Elo Elo. The password protection is very reassuring, and I like that my account is safe. Quick login adds to the app's convenience ! "
+                    "app": "Call History",
+                    "description": "Tracks call logs efficiently. Very easy to use and keeps everything organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Excellent app for video and voice calls. Keeps you connected effortlessly."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Connects you with like-minded individuals. Easy to use and navigate."
                 }
             ]
         },
@@ -188,12 +304,24 @@
             "name": "13.Mrinmoy Debnath",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Excellent video quality and seamless playback. The app is easy to navigate and supports various formats."
+                    "app": "Tiny Icons Widget",
+                    "description": "Perfect for customizing your home screen. Easy to use and very practical."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Efficient and user-friendly app. Quick payouts and reliable earnings."
+                    "app": "Audicate Audio Book",
+                    "description": "Amazing selection of audiobooks. Excellent audio quality and user-friendly interface."
+                },
+                {
+                    "app": "Call History",
+                    "description": "Great for keeping track of calls. Simple, efficient, and well-organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Fantastic app for staying in touch. Clear video and voice calls."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Easy to connect with others. User-friendly and great for social networking."
                 }
             ]
         },
@@ -201,12 +329,24 @@
             "name": "14.Ujjal Saha",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Great app with clear video quality. Supports multiple formats and the interface is user-friendly."
+                    "app": "Tiny Icons Widget",
+                    "description": "Helps in organizing home screen effectively. Highly customizable and easy to use."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Simple to use with quick payouts. Reliable app for earning rewards."
+                    "app": "Audicate Audio Book",
+                    "description": "Excellent audio quality with a wide range of books. Perfect for listening on the go."
+                },
+                {
+                    "app": "Call History",
+                    "description": "Very efficient in tracking call logs. User-friendly and well-organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Great app for seamless communication. Excellent video and voice call quality."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Easy to connect with new people. Intuitive interface and very engaging."
                 }
             ]
         },
@@ -214,16 +354,24 @@
             "name": "15.Adrija Pal",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Smooth playback and excellent video quality. The app is intuitive and supports various formats."
+                    "app": "Tiny Icons Widget",
+                    "description": "Customizes home screen effortlessly. Very user-friendly and functional."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "User-friendly app with fast payouts. Multiple ways to earn rewards efficiently."
+                    "app": "Audicate Audio Book",
+                    "description": "Vast library of audiobooks with great narration. Perfect for book lovers on the move."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": "Elo Elo's easy login feature saves me time. The password protection is strong and I feel secure. The quick login functionality is very practical ! "
+                    "app": "Call History",
+                    "description": "Keeps call logs organized and easy to access. Very simple and efficient."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Smooth and clear video calls. Great for keeping in touch with loved ones."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Great for connecting with like-minded people. User-friendly and easy to navigate."
                 }
             ]
         },
@@ -231,16 +379,24 @@
             "name": "16.Riya Dutta",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "High-quality video playback and easy to use. The app supports multiple formats effortlessly."
+                    "app": "Tiny Icons Widget",
+                    "description": "Perfect for organizing your home screen. Easy to use and highly customizable."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Reliable app for earning rewards. Quick payouts and user-friendly interface."
+                    "app": "Audicate Audio Book",
+                    "description": "Wide selection of audiobooks with excellent narration. Perfect for on-the-go listening."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": "Logging into Elo Elo is hassle-free with its easy login feature. I feel safe with the password protection in place. The quick login option is very convenient !"
+                    "app": "Call History",
+                    "description": "Simple and efficient way to track your call logs. Very user-friendly and organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Smooth video and voice calls. Great app for staying connected with friends and family."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "User-friendly interface for social networking. Connects you with like-minded people easily."
                 }
             ]
         },
@@ -248,16 +404,24 @@
             "name": "17.Sagnik Bhowmik",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Excellent video quality and smooth performance. Plays all formats without any issues."
+                    "app": "Tiny Icons Widget",
+                    "description": "Makes home screen management easy. Highly customizable and user-friendly."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Easy to use and offers reliable earnings. Fast payouts and user-friendly design."
+                    "app": "Audicate Audio Book",
+                    "description": "Great app for audiobooks. High-quality audio and a vast library."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": "I like how easy it is to log into Elo Elo. The password protection gives me peace of mind, and the quick login feature is extremely useful !"
+                    "app": "Call History",
+                    "description": "Tracks call logs efficiently. Very easy to use and keeps everything organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Excellent app for video and voice calls. Keeps you connected effortlessly."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Connects you with like-minded individuals. Easy to use and navigate."
                 }
             ]
         },
@@ -265,16 +429,24 @@
             "name": "18.Subhrajit Saha",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Reliable video player with great quality. Easy to use and supports multiple formats."
+                    "app": "Tiny Icons Widget",
+                    "description": "Perfect for customizing your home screen. Easy to use and very practical."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "User-friendly and efficient app. Quick payouts and multiple earning options."
+                    "app": "Audicate Audio Book",
+                    "description": "Amazing selection of audiobooks. Excellent audio quality and user-friendly interface."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": " The easy login on Elo Elo makes the app very accessible. I trust the password protection to keep my account safe. Quick login is a fantastic feature !"
+                    "app": "Call History",
+                    "description": "Great for keeping track of calls. Simple, efficient, and well-organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Fantastic app for staying in touch. Clear video and voice calls."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Easy to connect with others. User-friendly and great for social networking."
                 }
             ]
         },
@@ -282,16 +454,24 @@
             "name": "19.Debasmita Debnath",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Smooth playback and clear video quality. The app is user-friendly and supports various formats."
+                    "app": "Tiny Icons Widget",
+                    "description": "Helps in organizing home screen effectively. Highly customizable and easy to use."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Reliable app for earning rewards. Fast payouts and easy to use."
+                    "app": "Audicate Audio Book",
+                    "description": "Excellent audio quality with a wide range of books. Perfect for listening on the go."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": " Elo Elo offers a user-friendly easy login process. The password protection is robust and makes me feel secure. Quick login is a very handy feature !"
+                    "app": "Call History",
+                    "description": "Very efficient in tracking call logs. User-friendly and well-organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Great app for seamless communication. Excellent video and voice call quality."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Easy to connect with new people. Intuitive interface and very engaging."
                 }
             ]
         },
@@ -299,16 +479,24 @@
             "name": "20.Arpan Barman",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Seamless playback and supports all formats. The video quality is excellent and the app is very intuitive."
+                    "app": "Tiny Icons Widget",
+                    "description": "Customizes home screen effortlessly. Very user-friendly and functional."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "User-friendly and reliable app. Quick payouts and multiple earning options."
+                    "app": "Audicate Audio Book",
+                    "description": "Vast library of audiobooks with great narration. Perfect for book lovers on the move."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": "Elo Elo's easy login feature makes accessing the app simple. I appreciate the strong password protection and feel my account is safe. Quick login is a great time-saver !"
+                    "app": "Call History",
+                    "description": "Keeps call logs organized and easy to access. Very simple and efficient."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Smooth and clear video calls. Great for keeping in touch with loved ones."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Great for connecting with like-minded people. User-friendly and easy to navigate."
                 }
             ]
         },
@@ -316,16 +504,24 @@
             "name": "21.Arpita Barman",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Great video player with smooth playback. Supports multiple formats and has a user-friendly interface."
+                    "app": "Tiny Icons Widget",
+                    "description": "Perfect for organizing your home screen. Easy to use and highly customizable."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Efficient app for earning rewards. User-friendly and fast payouts."
+                    "app": "Audicate Audio Book",
+                    "description": "Wide selection of audiobooks with excellent narration. Perfect for on-the-go listening."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": "I find the easy login on Elo Elo very convenient. The password protection is strong, and I trust my account is safe. Quick login is a great addition to the app !"
+                    "app": "Call History",
+                    "description": "Simple and efficient way to track your call logs. Very user-friendly and organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Smooth video and voice calls. Great app for staying connected with friends and family."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "User-friendly interface for social networking. Connects you with like-minded people easily."
                 }
             ]
         },
@@ -333,16 +529,24 @@
             "name": "22.MR AB",
             "reviews": [
                 {
-                    "app": "HD Video Player",
-                    "description": "Excellent video quality and supports various formats. The app is easy to navigate and very reliable."
+                    "app": "Tiny Icons Widget",
+                    "description": "Makes home screen management easy. Highly customizable and user-friendly."
                 },
                 {
-                    "app": "Earneasy24",
-                    "description": "Simple and efficient app for earning rewards. Quick payouts and reliable interface."
+                    "app": "Audicate Audio Book",
+                    "description": "Great app for audiobooks. High-quality audio and a vast library."
                 },
                 {
-                    "app": "Elo elo",
-                    "description": "The easy login feature of Elo Elo is excellent. Password protection is strong and makes me feel secure. Quick login is a very useful feature ! "
+                    "app": "Call History",
+                    "description": "Tracks call logs efficiently. Very easy to use and keeps everything organized."
+                },
+                {
+                    "app": "Hi Hello",
+                    "description": "Excellent app for video and voice calls. Keeps you connected effortlessly."
+                },
+                {
+                    "app": "Samaj Saathi",
+                    "description": "Connects you with like-minded individuals. Easy to use and navigate."
                 }
             ]
         }
