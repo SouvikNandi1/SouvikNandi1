@@ -1,27 +1,28 @@
+
 {
     "persons": [
         {
             "name": "1.Souvik Nandi",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Great for organizing your home screen. Easy to use and highly customizable."
+                    "app": "Rummy Passion",
+                    "description": "Exciting gameplay and smooth interface. Great for both beginners and pros."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Wide selection of audiobooks with excellent narration. Perfect for on-the-go listening."
+                    "app": "KB Bazar",
+                    "description": "Wide variety of products at great prices. User-friendly shopping experience."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Simple and efficient way to track your call logs. Very user-friendly and organized."
+                    "app": "Taplend",
+                    "description": "Quick loan approvals and easy application process. Reliable customer support."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Smooth video and voice calls. Great app for staying connected with friends and family."
+                    "app": "TATA Capital Loan App",
+                    "description": "Simple to navigate with fast processing. Trusted and secure financial solutions."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "User-friendly interface for social networking. Connects you with like-minded people easily."
+                    "app": "Wealth",
+                    "description": "Comprehensive investment options and insightful financial advice. Perfect for portfolio management."
                 }
             ]
         },
@@ -29,24 +30,24 @@
             "name": "2.Soma Nandi",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Makes home screen management easy. Highly customizable and user-friendly."
+                    "app": "Rummy Passion",
+                    "description": "Great graphics and seamless gameplay. Highly engaging and fun."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Great app for audiobooks. High-quality audio and a vast library."
+                    "app": "KB Bazar",
+                    "description": "Excellent range of products and hassle-free shopping. Highly recommended."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Tracks call logs efficiently. Very easy to use and keeps everything organized."
+                    "app": "Taplend",
+                    "description": "Easy to use with fast loan approvals. Great support team."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Excellent app for video and voice calls. Keeps you connected effortlessly."
+                    "app": "TATA Capital Loan App",
+                    "description": "User-friendly interface with quick loan disbursement. Reliable and secure."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Connects you with like-minded individuals. Easy to use and navigate."
+                    "app": "Wealth",
+                    "description": "Diverse investment options with expert advice. Great for managing investments."
                 }
             ]
         },
@@ -54,24 +55,24 @@
             "name": "3.Adam Tok",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Perfect for customizing your home screen. Easy to use and very practical."
+                    "app": "Rummy Passion",
+                    "description": "Engaging gameplay with smooth controls. Perfect for rummy enthusiasts."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Amazing selection of audiobooks. Excellent audio quality and user-friendly interface."
+                    "app": "KB Bazar",
+                    "description": "Wide selection of items and easy checkout process. Very convenient."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Great for keeping track of calls. Simple, efficient, and well-organized."
+                    "app": "Taplend",
+                    "description": "Fast and efficient loan processing. Excellent user experience."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Fantastic app for staying in touch. Clear video and voice calls."
+                    "app": "TATA Capital Loan App",
+                    "description": "Easy application and quick approval. Trusted financial services."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Easy to connect with others. User-friendly and great for social networking."
+                    "app": "Wealth",
+                    "description": "Comprehensive financial tools and investment options. Ideal for portfolio management."
                 }
             ]
         },
@@ -79,24 +80,24 @@
             "name": "4.Roudy Rathor v2.0",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Helps in organizing home screen effectively. Highly customizable and easy to use."
+                    "app": "Rummy Passion",
+                    "description": "Fantastic app for rummy lovers. Smooth gameplay and user-friendly."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Excellent audio quality with a wide range of books. Perfect for listening on the go."
+                    "app": "KB Bazar",
+                    "description": "Great shopping experience with a vast product range. Easy to use."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Very efficient in tracking call logs. User-friendly and well-organized."
+                    "app": "Taplend",
+                    "description": "Quick and easy loan application process. Reliable customer service."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Great app for seamless communication. Excellent video and voice call quality."
+                    "app": "TATA Capital Loan App",
+                    "description": "Fast loan processing and secure transactions. User-friendly app."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Easy to connect with new people. Intuitive interface and very engaging."
+                    "app": "Wealth",
+                    "description": "Excellent investment options and financial insights. Great for managing your portfolio."
                 }
             ]
         },
@@ -104,24 +105,24 @@
             "name": "5.Kushal Barman",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Customizes home screen effortlessly. Very user-friendly and functional."
+                    "app": "Rummy Passion",
+                    "description": "Highly entertaining with smooth gameplay. Great for all rummy fans."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Vast library of audiobooks with great narration. Perfect for book lovers on the move."
+                    "app": "KB Bazar",
+                    "description": "User-friendly shopping with a great range of products. Highly recommended."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Keeps call logs organized and easy to access. Very simple and efficient."
+                    "app": "Taplend",
+                    "description": "Easy to apply and quick loan approval. Excellent support team."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Smooth and clear video calls. Great for keeping in touch with loved ones."
+                    "app": "TATA Capital Loan App",
+                    "description": "Simple to use with fast and secure loan processing. Trusted financial services."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Great for connecting with like-minded people. User-friendly and easy to navigate."
+                    "app": "Wealth",
+                    "description": "Comprehensive investment management with expert advice. Perfect for growing your portfolio."
                 }
             ]
         },
@@ -129,24 +130,24 @@
             "name": "6.Shyamal Barman",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Perfect for organizing your home screen. Easy to use and highly customizable."
+                    "app": "Rummy Passion",
+                    "description": "Great graphics and smooth gameplay. Very addictive."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Wide selection of audiobooks with excellent narration. Perfect for on-the-go listening."
+                    "app": "KB Bazar",
+                    "description": "Easy shopping experience with a wide product range. Highly convenient."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Simple and efficient way to track your call logs. Very user-friendly and organized."
+                    "app": "Taplend",
+                    "description": "Fast loan approvals and easy application. Reliable service."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Smooth video and voice calls. Great app for staying connected with friends and family."
+                    "app": "TATA Capital Loan App",
+                    "description": "Quick and secure loan processing. User-friendly and reliable."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "User-friendly interface for social networking. Connects you with like-minded people easily."
+                    "app": "Wealth",
+                    "description": "Diverse investment options with excellent financial advice. Ideal for managing investments."
                 }
             ]
         },
@@ -154,24 +155,24 @@
             "name": "7.Kalyani Barman",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Makes home screen management easy. Highly customizable and user-friendly."
+                    "app": "Rummy Passion",
+                    "description": "Highly engaging with excellent gameplay. Perfect for rummy lovers."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Great app for audiobooks. High-quality audio and a vast library."
+                    "app": "KB Bazar",
+                    "description": "Great shopping app with a vast selection of products. Easy to use."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Tracks call logs efficiently. Very easy to use and keeps everything organized."
+                    "app": "Taplend",
+                    "description": "Easy loan application and quick approval. Great customer support."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Excellent app for video and voice calls. Keeps you connected effortlessly."
+                    "app": "TATA Capital Loan App",
+                    "description": "Fast loan processing with a user-friendly interface. Secure and reliable."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Connects you with like-minded individuals. Easy to use and navigate."
+                    "app": "Wealth",
+                    "description": "Comprehensive financial management with diverse investment options. Perfect for portfolio growth."
                 }
             ]
         },
@@ -179,24 +180,24 @@
             "name": "8.Susmita Barman",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Perfect for customizing your home screen. Easy to use and very practical."
+                    "app": "Rummy Passion",
+                    "description": "Smooth gameplay and great graphics. Very enjoyable."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Amazing selection of audiobooks. Excellent audio quality and user-friendly interface."
+                    "app": "KB Bazar",
+                    "description": "Easy to use with a wide variety of products. Excellent shopping experience."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Great for keeping track of calls. Simple, efficient, and well-organized."
+                    "app": "Taplend",
+                    "description": "Fast and efficient loan approvals. User-friendly application process."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Fantastic app for staying in touch. Clear video and voice calls."
+                    "app": "TATA Capital Loan App",
+                    "description": "Quick loan disbursement with easy navigation. Secure and reliable."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Easy to connect with others. User-friendly and great for social networking."
+                    "app": "Wealth",
+                    "description": "Great investment options and financial tools. Ideal for managing your investments."
                 }
             ]
         },
@@ -204,24 +205,24 @@
             "name": "9.Soumyajit Bhunia",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Helps in organizing home screen effectively. Highly customizable and easy to use."
+                    "app": "Rummy Passion",
+                    "description": "Excellent app for rummy enthusiasts. Smooth gameplay and easy to use."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Excellent audio quality with a wide range of books. Perfect for listening on the go."
+                    "app": "KB Bazar",
+                    "description": "Wide range of products and easy checkout process. Very convenient."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Very efficient in tracking call logs. User-friendly and well-organized."
+                    "app": "Taplend",
+                    "description": "Quick and easy loan applications. Reliable customer support."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Great app for seamless communication. Excellent video and voice call quality."
+                    "app": "TATA Capital Loan App",
+                    "description": "Fast loan processing and user-friendly interface. Trusted financial services."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Easy to connect with new people. Intuitive interface and very engaging."
+                    "app": "Wealth",
+                    "description": "Comprehensive investment tools and financial advice. Perfect for managing your portfolio."
                 }
             ]
         },
@@ -229,24 +230,24 @@
             "name": "10.Asim Basak",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Customizes home screen effortlessly. Very user-friendly and functional."
+                    "app": "Rummy Passion",
+                    "description": "Highly engaging gameplay with smooth performance. Great for rummy fans."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Vast library of audiobooks with great narration. Perfect for book lovers on the move."
+                    "app": "KB Bazar",
+                    "description": "Easy to navigate with a wide selection of products. Highly recommended."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Keeps call logs organized and easy to access. Very simple and efficient."
+                    "app": "Taplend",
+                    "description": "Fast loan approvals and easy application process. Great customer support."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Smooth and clear video calls. Great for keeping in touch with loved ones."
+                    "app": "TATA Capital Loan App",
+                    "description": "Quick loan disbursement with a user-friendly interface. Secure and reliable."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Great for connecting with like-minded people. User-friendly and easy to navigate."
+                    "app": "Wealth",
+                    "description": "Diverse investment options and expert financial advice. Perfect for managing your investments."
                 }
             ]
         },
@@ -254,24 +255,24 @@
             "name": "11.Abasak Basak",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Perfect for organizing your home screen. Easy to use and highly customizable."
+                    "app": "Rummy Passion",
+                    "description": "Great graphics and smooth gameplay. Perfect for rummy lovers."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Wide selection of audiobooks with excellent narration. Perfect for on-the-go listening."
+                    "app": "KB Bazar",
+                    "description": "User-friendly shopping experience with a wide range of products. Highly recommended."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Simple and efficient way to track your call logs. Very user-friendly and organized."
+                    "app": "Taplend",
+                    "description": "Quick loan approvals and easy application process. Reliable service."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Smooth video and voice calls. Great app for staying connected with friends and family."
+                    "app": "TATA Capital Loan App",
+                    "description": "Fast and secure loan processing with easy navigation. Trusted financial services."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "User-friendly interface for social networking. Connects you with like-minded people easily."
+                    "app": "Wealth",
+                    "description": "Comprehensive investment options and financial tools. Great for managing your portfolio."
                 }
             ]
         },
@@ -279,24 +280,26 @@
             "name": "12.Soumyadeep Dutta",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Makes home screen management easy. Highly customizable and user-friendly."
+                    "app": "Rummy Passion",
+                    "description": "Exciting gameplay and smooth interface. Great for both beginners and pros."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Great app for audiobooks. High-quality audio and a vast library."
+                    "app": "KB Bazar",
+                    "description": "Wide variety of products at great prices. User-friendly shopping experience."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Tracks call logs efficiently. Very easy to use and keeps everything organized."
+                    "app": "
+
+Taplend",
+                    "description": "Quick loan approvals and easy application process. Reliable customer support."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Excellent app for video and voice calls. Keeps you connected effortlessly."
+                    "app": "TATA Capital Loan App",
+                    "description": "Simple to navigate with fast processing. Trusted and secure financial solutions."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Connects you with like-minded individuals. Easy to use and navigate."
+                    "app": "Wealth",
+                    "description": "Comprehensive investment options and insightful financial advice. Perfect for portfolio management."
                 }
             ]
         },
@@ -304,24 +307,24 @@
             "name": "13.Mrinmoy Debnath",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Perfect for customizing your home screen. Easy to use and very practical."
+                    "app": "Rummy Passion",
+                    "description": "Great graphics and seamless gameplay. Highly engaging and fun."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Amazing selection of audiobooks. Excellent audio quality and user-friendly interface."
+                    "app": "KB Bazar",
+                    "description": "Excellent range of products and hassle-free shopping. Highly recommended."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Great for keeping track of calls. Simple, efficient, and well-organized."
+                    "app": "Taplend",
+                    "description": "Easy to use with fast loan approvals. Great support team."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Fantastic app for staying in touch. Clear video and voice calls."
+                    "app": "TATA Capital Loan App",
+                    "description": "User-friendly interface with quick loan disbursement. Reliable and secure."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Easy to connect with others. User-friendly and great for social networking."
+                    "app": "Wealth",
+                    "description": "Diverse investment options with expert advice. Great for managing investments."
                 }
             ]
         },
@@ -329,24 +332,24 @@
             "name": "14.Ujjal Saha",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Helps in organizing home screen effectively. Highly customizable and easy to use."
+                    "app": "Rummy Passion",
+                    "description": "Engaging gameplay with smooth controls. Perfect for rummy enthusiasts."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Excellent audio quality with a wide range of books. Perfect for listening on the go."
+                    "app": "KB Bazar",
+                    "description": "Wide selection of items and easy checkout process. Very convenient."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Very efficient in tracking call logs. User-friendly and well-organized."
+                    "app": "Taplend",
+                    "description": "Fast and efficient loan processing. Excellent user experience."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Great app for seamless communication. Excellent video and voice call quality."
+                    "app": "TATA Capital Loan App",
+                    "description": "Easy application and quick approval. Trusted financial services."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Easy to connect with new people. Intuitive interface and very engaging."
+                    "app": "Wealth",
+                    "description": "Comprehensive financial tools and investment options. Ideal for portfolio management."
                 }
             ]
         },
@@ -354,24 +357,24 @@
             "name": "15.Adrija Pal",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Customizes home screen effortlessly. Very user-friendly and functional."
+                    "app": "Rummy Passion",
+                    "description": "Fantastic app for rummy lovers. Smooth gameplay and user-friendly."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Vast library of audiobooks with great narration. Perfect for book lovers on the move."
+                    "app": "KB Bazar",
+                    "description": "Great shopping experience with a vast product range. Easy to use."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Keeps call logs organized and easy to access. Very simple and efficient."
+                    "app": "Taplend",
+                    "description": "Quick and easy loan application process. Reliable customer service."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Smooth and clear video calls. Great for keeping in touch with loved ones."
+                    "app": "TATA Capital Loan App",
+                    "description": "Fast loan processing and secure transactions. User-friendly app."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Great for connecting with like-minded people. User-friendly and easy to navigate."
+                    "app": "Wealth",
+                    "description": "Excellent investment options and financial insights. Great for managing your portfolio."
                 }
             ]
         },
@@ -379,24 +382,24 @@
             "name": "16.Riya Dutta",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Perfect for organizing your home screen. Easy to use and highly customizable."
+                    "app": "Rummy Passion",
+                    "description": "Highly entertaining with smooth gameplay. Great for all rummy fans."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Wide selection of audiobooks with excellent narration. Perfect for on-the-go listening."
+                    "app": "KB Bazar",
+                    "description": "User-friendly shopping with a great range of products. Highly recommended."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Simple and efficient way to track your call logs. Very user-friendly and organized."
+                    "app": "Taplend",
+                    "description": "Easy to apply and quick loan approval. Excellent support team."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Smooth video and voice calls. Great app for staying connected with friends and family."
+                    "app": "TATA Capital Loan App",
+                    "description": "Simple to use with fast and secure loan processing. Trusted financial services."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "User-friendly interface for social networking. Connects you with like-minded people easily."
+                    "app": "Wealth",
+                    "description": "Comprehensive investment management with expert advice. Perfect for growing your portfolio."
                 }
             ]
         },
@@ -404,24 +407,24 @@
             "name": "17.Sagnik Bhowmik",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Makes home screen management easy. Highly customizable and user-friendly."
+                    "app": "Rummy Passion",
+                    "description": "Great graphics and smooth gameplay. Very addictive."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Great app for audiobooks. High-quality audio and a vast library."
+                    "app": "KB Bazar",
+                    "description": "Easy shopping experience with a wide product range. Highly convenient."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Tracks call logs efficiently. Very easy to use and keeps everything organized."
+                    "app": "Taplend",
+                    "description": "Fast loan approvals and easy application. Reliable service."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Excellent app for video and voice calls. Keeps you connected effortlessly."
+                    "app": "TATA Capital Loan App",
+                    "description": "Quick and secure loan processing. User-friendly and reliable."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Connects you with like-minded individuals. Easy to use and navigate."
+                    "app": "Wealth",
+                    "description": "Diverse investment options with excellent financial advice. Ideal for managing investments."
                 }
             ]
         },
@@ -429,24 +432,24 @@
             "name": "18.Subhrajit Saha",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Perfect for customizing your home screen. Easy to use and very practical."
+                    "app": "Rummy Passion",
+                    "description": "Highly engaging with excellent gameplay. Perfect for rummy lovers."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Amazing selection of audiobooks. Excellent audio quality and user-friendly interface."
+                    "app": "KB Bazar",
+                    "description": "Great shopping app with a vast selection of products. Easy to use."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Great for keeping track of calls. Simple, efficient, and well-organized."
+                    "app": "Taplend",
+                    "description": "Easy loan application and quick approval. Great customer support."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Fantastic app for staying in touch. Clear video and voice calls."
+                    "app": "TATA Capital Loan App",
+                    "description": "Fast loan processing with a user-friendly interface. Secure and reliable."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Easy to connect with others. User-friendly and great for social networking."
+                    "app": "Wealth",
+                    "description": "Comprehensive financial management with diverse investment options. Perfect for portfolio growth."
                 }
             ]
         },
@@ -454,24 +457,24 @@
             "name": "19.Debasmita Debnath",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Helps in organizing home screen effectively. Highly customizable and easy to use."
+                    "app": "Rummy Passion",
+                    "description": "Smooth gameplay and great graphics. Very enjoyable."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Excellent audio quality with a wide range of books. Perfect for listening on the go."
+                    "app": "KB Bazar",
+                    "description": "Easy to use with a wide variety of products. Excellent shopping experience."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Very efficient in tracking call logs. User-friendly and well-organized."
+                    "app": "Taplend",
+                    "description": "Fast and efficient loan approvals. User-friendly application process."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Great app for seamless communication. Excellent video and voice call quality."
+                    "app": "TATA Capital Loan App",
+                    "description": "Quick loan disbursement with easy navigation. Secure and reliable."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Easy to connect with new people. Intuitive interface and very engaging."
+                    "app": "Wealth",
+                    "description": "Great investment options and financial tools. Ideal for managing your investments."
                 }
             ]
         },
@@ -479,24 +482,24 @@
             "name": "20.Arpan Barman",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Customizes home screen effortlessly. Very user-friendly and functional."
+                    "app": "Rummy Passion",
+                    "description": "Excellent app for rummy enthusiasts. Smooth gameplay and easy to use."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Vast library of audiobooks with great narration. Perfect for book lovers on the move."
+                    "app": "KB Bazar",
+                    "description": "Wide range of products and easy checkout process. Very convenient."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Keeps call logs organized and easy to access. Very simple and efficient."
+                    "app": "Taplend",
+                    "description": "Quick and easy loan applications. Reliable customer support."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Smooth and clear video calls. Great for keeping in touch with loved ones."
+                    "app": "TATA Capital Loan App",
+                    "description": "Fast loan processing and user-friendly interface. Trusted financial services."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Great for connecting with like-minded people. User-friendly and easy to navigate."
+                    "app": "Wealth",
+                    "description": "Comprehensive investment tools and financial advice. Perfect for managing your portfolio."
                 }
             ]
         },
@@ -504,24 +507,24 @@
             "name": "21.Arpita Barman",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Perfect for organizing your home screen. Easy to use and highly customizable."
+                    "app": "Rummy Passion",
+                    "description": "Highly engaging gameplay with smooth performance. Great for rummy fans."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Wide selection of audiobooks with excellent narration. Perfect for on-the-go listening."
+                    "app": "KB Bazar",
+                    "description": "Easy to navigate with a wide selection of products. Highly recommended."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Simple and efficient way to track your call logs. Very user-friendly and organized."
+                    "app": "Taplend",
+                    "description": "Fast loan approvals and easy application process. Great customer support."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Smooth video and voice calls. Great app for staying connected with friends and family."
+                    "app": "TATA Capital Loan App",
+                    "description": "Quick loan disbursement with a user-friendly interface. Secure and reliable."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "User-friendly interface for social networking. Connects you with like-minded people easily."
+                    "app": "Wealth",
+                    "description": "Diverse investment options and expert financial advice. Perfect for managing your investments."
                 }
             ]
         },
@@ -529,24 +532,24 @@
             "name": "22.MR AB",
             "reviews": [
                 {
-                    "app": "Tiny Icons Widget",
-                    "description": "Makes home screen management easy. Highly customizable and user-friendly."
+                    "app": "Rummy Passion",
+                    "description": "Great graphics and smooth gameplay. Perfect for rummy lovers."
                 },
                 {
-                    "app": "Audicate Audio Book",
-                    "description": "Great app for audiobooks. High-quality audio and a vast library."
+                    "app": "KB Bazar",
+                    "description": "User-friendly shopping experience with a wide range of products. Highly recommended."
                 },
                 {
-                    "app": "Call History",
-                    "description": "Tracks call logs efficiently. Very easy to use and keeps everything organized."
+                    "app": "Taplend",
+                    "description": "Quick loan approvals and easy application process. Reliable service."
                 },
                 {
-                    "app": "Hi Hello",
-                    "description": "Excellent app for video and voice calls. Keeps you connected effortlessly."
+                    "app": "TATA Capital Loan App",
+                    "description": "Fast and secure loan processing with easy navigation. Trusted financial services."
                 },
                 {
-                    "app": "Samaj Saathi",
-                    "description": "Connects you with like-minded individuals. Easy to use and navigate."
+                    "app": "Wealth",
+                    "description": "Comprehensive investment options and financial tools. Great for managing your portfolio."
                 }
             ]
         }
